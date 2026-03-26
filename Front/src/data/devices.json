@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "nombre": "iPhone 15 Pro",
+    "marca": "Apple",
+    "tipo": "Celular",
+    "fecha_lanzamiento": "2023-09-15",
+    "precio": 1200,
+    "descripcion": "El iPhone 15 Pro es un smartphone de alta gama con un diseño revolucionario. Su marco de titanio ultraligero lo hace increíblemente resistente y cómodo en la mano, un 20% más ligero que el modelo anterior. En su interior, el chip A17 Pro de 3 nm ofrece un rendimiento gráfico y de procesamiento sin precedentes, ideal para juegos de consola AAA y aplicaciones profesionales de edición de video. El sistema de cámara es uno de los más avanzados del mercado, con un lente principal de 48 MP que captura fotos de alta resolución y un teleobjetivo 5x que permite un zoom óptico impresionante. La adición del puerto USB-C con velocidades de USB 3 facilita la transferencia de datos masiva y una carga más rápida.",
+    "imagen": "/iphone15.webp"
+  },
+  {
+    "id": 2,
+    "nombre": "MacBook Air M3",
+    "marca": "Apple",
+    "tipo": "Portátil",
+    "fecha_lanzamiento": "2024-03-10",
+    "precio": 1500,
+    "descripcion": "El MacBook Air M3 es un portátil que combina una portabilidad extrema con una potencia formidable. Su diseño ultradelgado y ligero, fabricado con aluminio 100% reciclado, lo hace perfecto para profesionales y estudiantes en movimiento. El corazón de este dispositivo es el chip Apple M3, que permite un rendimiento hasta un 60% más rápido que el modelo M1, manejando sin esfuerzo tareas complejas como la edición de video 4K y la multitarea intensiva. La pantalla Liquid Retina de 13.6 pulgadas ofrece colores vibrantes y gran nitidez, y su batería de larga duración permite hasta 18 horas de uso, garantizando un día completo de trabajo sin necesidad de recarga. Además, cuenta con un soporte mejorado para Wi-Fi 6E, proporcionando conexiones inalámbricas más rápidas y estables.",
+    "imagen": "/macbookAirM3.webp"
+  },
+  {
+    "id": 3,
+    "nombre": "iPad Pro 12.9",
+    "marca": "Apple",
+    "tipo": "Tablet",
+    "fecha_lanzamiento": "2023-05-01",
+    "precio": 1400,
+    "descripcion": "El iPad Pro de 12.9 pulgadas es la tablet más avanzada de Apple, diseñada para la creatividad y la productividad profesional. Su pantalla Liquid Retina XDR con tecnología mini-LED ofrece un brillo de hasta 1000 nits y un contraste de 1,000,000:1, lo que la hace ideal para flujos de trabajo de alto rendimiento, como la edición de fotos y videos. Impulsado por el potente chip M2, proporciona un rendimiento gráfico y de procesamiento similar al de un ordenador portátil, facilitando la ejecución de aplicaciones pesadas. Es compatible con el Apple Pencil de segunda generación, convirtiéndolo en una herramienta indispensable para artistas, diseñadores y arquitectos, y su capacidad de grabar y editar video en ProRes lo hace perfecto para cineastas.",
+    "imagen": "/iPadPro12.9.webp"
+  },
+  {
+    "id": 4,
+    "nombre": "Apple Watch Series 9",
+    "marca": "Apple",
+    "tipo": "Smartwatch",
+    "fecha_lanzamiento": "2023-09-22",
+    "precio": 500,
+    "descripcion": "El Apple Watch Series 9 es un reloj inteligente avanzado que redefine el monitoreo de la salud y la conectividad. Impulsado por el nuevo chip S9, es más rápido y eficiente, permitiendo que la navegación por la interfaz sea increíblemente fluida. La pantalla Retina siempre activa es ahora más brillante que nunca, alcanzando los 2000 nits, lo que la hace perfectamente legible bajo cualquier condición de luz. Una de las innovaciones más notables es el gesto de doble toque con los dedos, que permite a los usuarios interactuar con el reloj sin tocar la pantalla, ideal para cuando se tiene una mano ocupada. Además, monitorea métricas de salud avanzadas, como el nivel de oxígeno en sangre, el ECG y la detección de caídas.",
+    "imagen": "/appleWatch9.webp"
+  },
+  {
+    "id": 5,
+    "nombre": "AirPods Pro 2",
+    "marca": "Apple",
+    "tipo": "Auriculares",
+    "fecha_lanzamiento": "2023-10-01",
+    "precio": 250,
+    "descripcion": "Los AirPods Pro 2 son auriculares inalámbricos de alto rendimiento diseñados para ofrecer una experiencia auditiva excepcional. Equipados con el chip H2, ofrecen una cancelación activa de ruido mejorada que es hasta el doble de potente que la generación anterior, bloqueando el sonido no deseado de manera más eficaz. El modo de transparencia adaptativa reduce los ruidos fuertes del entorno sin aislarte por completo. También cuentan con audio espacial personalizado, que utiliza el seguimiento dinámico de la cabeza para ofrecer un sonido envolvente y tridimensional. La duración de la batería ha sido mejorada, proporcionando hasta 6 horas de escucha con una sola carga.",
+    "imagen": "/airpodsPro2.webp"
+  },
+  {
+    "id": 6,
+    "nombre": "Galaxy S24 Ultra",
+    "marca": "Samsung",
+    "tipo": "Celular",
+    "fecha_lanzamiento": "2024-01-20",
+    "precio": 1300,
+    "descripcion": "El Galaxy S24 Ultra es el smartphone insignia de Samsung, destacando por su potente sistema de cámara cuádruple con un sensor principal de hasta 200 MP y un impresionante zoom óptico de 10x. Su diseño incorpora un marco de titanio para mayor durabilidad. La pantalla AMOLED de 6.8” con una tasa de refresco de 120 Hz y un brillo máximo de 2600 nits ofrece una experiencia visual fluida y vibrante, ideal para juegos y contenido multimedia. Este modelo es compatible con el S-Pen, lo que lo convierte en una herramienta versátil para la productividad, la toma de notas y el dibujo, con un rendimiento excepcional impulsado por el procesador Snapdragon 8 Gen 3.",
+    "imagen": "/galaxyS24Ultra.webp"
+  },
+  {
+    "id": 7,
+    "nombre": "Galaxy Z Fold 5",
+    "marca": "Samsung",
+    "tipo": "Celular Plegable",
+    "fecha_lanzamiento": "2023-08-15",
+    "precio": 1800,
+    "descripcion": "El Galaxy Z Fold 5 es un teléfono plegable que se transforma en una tablet, ofreciendo una experiencia de uso sin precedentes. Cuenta con una pantalla principal AMOLED interna de 7.6” que es ideal para la multitarea, permitiendo usar hasta tres aplicaciones simultáneamente. La pantalla externa de 6.2” permite un uso cómodo con una sola mano cuando está cerrado. La bisagra ha sido rediseñada para ser más resistente y permite que el teléfono se cierre sin dejar un hueco, mejorando la durabilidad y el diseño. Este dispositivo está optimizado para la productividad y es compatible con el S-Pen, ofreciendo una experiencia similar a la de una tablet en un formato compacto.",
+    "imagen": "/galaxyZFold5.webp"
+  },
+  {
+    "id": 8,
+    "nombre": "Samsung Galaxy Tab S9",
+    "marca": "Samsung",
+    "tipo": "Tablet",
+    "fecha_lanzamiento": "2023-07-25",
+    "precio": 1100,
+    "descripcion": "La Samsung Galaxy Tab S9 es una tablet premium diseñada para la creatividad y el entretenimiento. Su impresionante pantalla AMOLED de 12.4” con soporte para HDR10+ proporciona colores intensos y un contraste profundo, ideal para ver películas y editar fotos. Con la certificación de resistencia IP68, es a prueba de polvo y agua, lo que la hace duradera y versátil. Impulsada por el procesador Snapdragon 8 Gen 2, ofrece un rendimiento gráfico y de procesamiento excepcional para juegos y aplicaciones creativas. Además, incluye el S-Pen, facilitando la toma de notas y el dibujo con gran precisión y baja latencia.",
+    "imagen": "/galaxyTabS9.webp"
+  },
+  {
+    "id": 9,
+    "nombre": "Dell XPS 15",
+    "marca": "Dell",
+    "tipo": "Portátil",
+    "fecha_lanzamiento": "2023-06-01",
+    "precio": 1700,
+    "descripcion": "El Dell XPS 15 es una laptop de alto rendimiento que combina potencia y elegancia. Es ideal para profesionales y creadores de contenido que necesitan un equipo robusto. Viene equipado con procesadores Intel Core i7/i9 de última generación y una GPU NVIDIA RTX, lo que le permite manejar tareas de renderizado 3D, edición de video 4K y gaming con facilidad. La pantalla OLED 4K táctil de 15.6” ofrece una calidad de imagen asombrosa con colores increíblemente precisos y negros profundos. Su diseño premium ultradelgado, con materiales como aluminio mecanizado y fibra de carbono, no solo le da un aspecto sofisticado, sino que también garantiza la durabilidad.",
+    "imagen": "/dellXPS15.webp"
+  },
+  {
+    "id": 10,
+    "nombre": "PlayStation 5",
+    "marca": "Sony",
+    "tipo": "Consola",
+    "fecha_lanzamiento": "2020-11-12",
+    "precio": 500,
+    "descripcion": "La PlayStation 5 es una consola de videojuegos de nueva generación que ofrece una experiencia de juego inmersiva. Su SSD ultrarrápido reduce drásticamente los tiempos de carga, permitiendo a los jugadores sumergirse en los mundos virtuales casi instantáneamente. Es compatible con juegos 4K a 120 FPS, lo que garantiza gráficos fluidos y de alta resolución. El controlador DualSense es una de sus características más destacadas, con retroalimentación háptica y gatillos adaptativos que proporcionan sensaciones físicas realistas en el juego. También cuenta con audio 3D para una experiencia de sonido envolvente.",
+    "imagen": "/ps5.webp"
+  },
+  {
+    "id": 11,
+    "nombre": "Xbox Series X",
+    "marca": "Microsoft",
+    "tipo": "Consola",
+    "fecha_lanzamiento": "2020-11-10",
+    "precio": 500,
+    "descripcion": "La Xbox Series X es una consola de alto rendimiento, diseñada para la máxima velocidad y potencia. Su procesador AMD Zen 2 y su potente GPU RDNA 2 permiten el soporte para resolución 8K y 120 FPS, con tecnologías como Ray Tracing para una iluminación y reflejos hiperrealistas. El Xbox Velocity Architecture utiliza un SSD personalizado para minimizar los tiempos de carga. Además, cuenta con una amplia retrocompatibilidad de juegos, lo que te permite jugar miles de títulos de Xbox, Xbox 360 y Xbox One con mejoras de rendimiento, y su diseño compacto la hace fácil de integrar en cualquier configuración de entretenimiento.",
+    "imagen": "/xboxSeriesX.webp"
+  },
+  {
+    "id": 12,
+    "nombre": "Nintendo Switch OLED",
+    "marca": "Nintendo",
+    "tipo": "Consola",
+    "fecha_lanzamiento": "2021-10-08",
+    "precio": 350,
+    "descripcion": "La Nintendo Switch OLED es una consola híbrida que se puede usar en modo portátil, de sobremesa o en la televisión. Su principal mejora es la pantalla OLED de 7 pulgadas, que ofrece un mejor contraste, colores más vibrantes y negros más profundos, mejorando la experiencia de juego en modo portátil. También cuenta con altavoces mejorados para un audio más claro y envolvente. La nueva base incluye un puerto LAN, permitiendo una conexión a internet más estable en el modo televisor. Es compatible con toda la biblioteca de juegos de Nintendo Switch, lo que la convierte en una opción versátil y popular para jugadores de todas las edades.",
+    "imagen": "/switchOLED.webp"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "appId": "com.aa2.devicesapp",
+  "appName": "AA2 Devices App",
+  "webDir": "dist",
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  }
+}
